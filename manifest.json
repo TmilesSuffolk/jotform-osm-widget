@@ -1,0 +1,13 @@
+{
+  "name": "OpenStreetMap Pin Drop Widget",
+  "description": "Allows users to drop a pin on a map and returns latitude and longitude with reverse geocoded address.",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "repository": "",
+  "files": {
+    "main": "index.html",
+    "js": [
+      "script.js"
+    ]
+  }
+}
