@@ -62,6 +62,8 @@ function widgetReady() {
   JFCustomWidget.requestFrameResize({ height: document.body.scrollHeight });
 }
 
+alert("Submit handler is firing!");
+
 if (window.JFCustomWidget) {
   widgetReady();
 } else {
